@@ -1,1 +1,3 @@
 scripts/*.ipynb
+scripts/.ipynb*
+scripts/__pycache__
